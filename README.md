@@ -132,11 +132,16 @@ Built an interactive Power BI dashboard featuring:
 
 ## 📊 Dashboard Preview
 
-> Add screenshots of your Power BI dashboard here.
+> Screenshots of Power BI dashboard.
 
 Example:
 
-![Dashboard](Images/dashboard.png)
+<img width="897" height="486" alt="Dashboard" src="https://github.com/user-attachments/assets/56b4e0c7-af41-44d8-b68e-d5a51d1f5820" />
+<br>
+<img width="896" height="488" alt="Dashboard2" src="https://github.com/user-attachments/assets/3af8e0fc-db4b-40af-8bca-3b31a526c48a" />
+<br>
+<img width="896" height="486" alt="Dashboard3" src="https://github.com/user-attachments/assets/9cd0ecf5-40f5-4ca5-91b7-e1ccd1a64a9c" />
+
 
 ---
 
