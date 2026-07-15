@@ -64,15 +64,7 @@ The dataset contains **3,900 customer purchase records** with **18 features**, i
 - **Power BI** – Dashboard creation and visualization
 
 ---
-# 📂 Database Schema
 
-The project uses the Chinook Music Store relational database.
-
-<p align="center">
-<img width="710" height="574" alt="DatabaseSchema" src="https://github.com/user-attachments/assets/fd12f051-f2cb-49ef-8c2b-70ea62cdb52c" />
-
-</p>
----
 ## 🔄 Project Workflow
 
 ### 1. Data Preparation
